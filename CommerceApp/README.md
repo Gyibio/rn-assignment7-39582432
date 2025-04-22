@@ -46,7 +46,7 @@ This React Native project integrates product listing, a product detail view, a s
   - Cart items are saved locally using AsyncStorage so users don’t lose their cart when they close the app.
 
 ## Screenshots
-![HomeScreen](./screenshots/Homescreen.jpg)
+![HomeScreen](./screenshots/HomeScreen.jpg)
 ![Drawer](./screenshots/Drawer.jpg) 
 ![ProductDetail](./screenshots/ProductDetail.jpg)
 ![ProductDetail2](./screenshots/ProductDetail2.jpg)
